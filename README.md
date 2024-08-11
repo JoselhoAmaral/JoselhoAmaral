@@ -14,4 +14,5 @@
 
 ## GitHub Status
 
-
+[![Joselho Amaral's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoselhoAmaral&show_icons=true&theme=dark)](https://github.com/JoselhoAmaral) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoselhoAmaral&layout=compact&theme=dark&hide_border=true)](https://github.com/JoselhoAmaral)
