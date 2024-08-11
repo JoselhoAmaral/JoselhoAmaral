@@ -1,5 +1,5 @@
 ## About Me
-### Hello Word!😄 Me chamo Joselho, sou formado, morro em Fortaleza-CE e estou me capacitando para ser um desenvolvedor Pleno.
+### Hello Word!😄 Me chamo Joselho, sou formado, morro em Fortaleza-CE e estou me capacitando para ser um desenvolvedor pleno.
 
 ## Languages ​​and Tools
 <div style="display: inline_block">
